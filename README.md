@@ -89,7 +89,8 @@ Capture screenshots of the waveform and save the simulation logs. These will be 
 
 
 // output Waveform
-<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/719b7d27-1622-4376-974b-787f83177e6d" />
+<img width="1040" height="555" alt="Screenshot 2025-11-20 193635" src="https://github.com/user-attachments/assets/86dbe20e-6033-4782-921b-01f62147565c" />
+
 
 
 # ROM
@@ -161,7 +162,8 @@ Capture screenshots of the waveform and save the simulation logs. These will be 
 endmodule
 
 // output Waveform
-<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/bf1158c9-547a-4f52-aa3f-96ee88019015" />
+<img width="1035" height="550" alt="Screenshot 2025-11-20 193706" src="https://github.com/user-attachments/assets/59e78914-ba8a-4ea8-aa38-3b31d62f2902" />
+
 
 
 
@@ -265,7 +267,8 @@ endmodule
     end
     endmodule
 // output Waveform
-<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/42abb518-c108-4a8d-85e6-b0a45219df5f" />
+<img width="1033" height="552" alt="Screenshot 2025-11-20 193720" src="https://github.com/user-attachments/assets/bc5d04fe-4415-4619-831a-df094a062153" />
+
 
 
 
