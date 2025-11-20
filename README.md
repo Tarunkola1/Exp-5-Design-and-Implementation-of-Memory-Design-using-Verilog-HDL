@@ -161,7 +161,7 @@ Capture screenshots of the waveform and save the simulation logs. These will be 
 endmodule
 
 // output Waveform
-<img width="1036" height="553" alt="Screenshot 2025-11-20 193002" src="https://github.com/user-attachments/assets/5bcd552a-d190-48e7-a0f5-39432e7e0a14" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/bf1158c9-547a-4f52-aa3f-96ee88019015" />
 
 
 
